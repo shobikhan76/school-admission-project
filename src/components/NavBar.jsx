@@ -14,7 +14,7 @@ import {
 } from '@mui/material';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Link } from 'react-router-dom';
-import logo from '../assets/my.JPEG'; // Your image path
+import logo from '../assets/my.jpeg'; // Your image path
 
 const Navbar = () => {
   const [drawerOpen, setDrawerOpen] = useState(false);
